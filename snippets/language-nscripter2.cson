@@ -1,0 +1,7 @@
+'.source.nscript':
+  'ruby':
+    'prefix': 'る'
+    'body': '{${1:text}/${2:ruby}}${3:next}'
+  'name':
+    'prefix': 'な'
+    'body': '[${1:name}]「${2:lines}」\n${3:next}'

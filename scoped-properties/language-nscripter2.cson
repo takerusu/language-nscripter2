@@ -1,0 +1,5 @@
+'.source.nscript':
+  'editor':
+    'commentStart': ';'
+    'increaseIndentPattern': '(else|do|then)$|^(for)\\b(((?!next).)*)$'
+    'decreaseIndentPattern': '^\\s*(next|loop|end)\\s*$'

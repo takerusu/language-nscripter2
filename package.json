@@ -1,0 +1,12 @@
+{
+  "name": "language-nscripter2",
+  "version": "0.0.0",
+  "description": "Add syntax hilighting to Nscripter2",
+  "repository": "https://github.com/atom/language-nscripter2",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
